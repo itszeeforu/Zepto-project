@@ -134,7 +134,7 @@ Import the dataset (convert to UTF-8 if necessary)
 
 
 👨‍💻 About the Author
-Hey, I’m Zeenat  — a Data Analyst Learner thanks to Amlan Mohanty for teaching 
+Hey, I’m Zeenat  — a Data Analyst Learner thanks to @AmlanMohanty for teaching 
 
 
 Beginner-friendly tutorials, real-world projects, job and career advice
